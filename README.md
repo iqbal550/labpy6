@@ -111,5 +111,10 @@
     Fungsi hapus(nama): Menghapus data mahasiswa berdasarkan nama yang diberikan.
     Fungsi ubah(nama): Mengubah data mahasiswa berdasarkan nama yang diberikan, termasuk nama, NIM, dan nilai.
     Menu Utama: Menyediakan antarmuka pengguna untuk memilih operasi yang diinginkan.
+
+![Gambar WhatsApp 2024-11-28 pukul 13 16 32_78d4c331](https://github.com/user-attachments/assets/917a23dc-247b-4079-ad36-dc7f7610a9e7)
+
+
+    
     
 
